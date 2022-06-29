@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("../img/bg2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;  
+    
+    
+}
+
+#particles-js{
+
+    height: 100%;
+    width: 100%;
+    
+}
+
+h1{
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:whitesmoke;
+    letter-spacing: 10px;
+    text-shadow: 5px 7px 17px #FA5C43;
+
+}
